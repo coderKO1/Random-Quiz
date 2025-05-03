@@ -27,23 +27,23 @@ body {
 }
 
 .option:hover {
-  background-color: #ccc;
+  background-color: #011084;
 }
 
 button {
   margin-top: 60px;
   padding: 10px 20px;
   font-size: 16px;
-  background: rgb(124, 187, 121);
+  background: rgb(9, 9, 9);
   color: #fff;
   border: none;
   border-radius: 5px;
 
 }
 button:hover {
-  background-color: #ccc;
+  background-color: #011084;
 }
 .highlight {
   font-weight: bold;
-  color: red;
+  color: rgba(245, 67, 67, 0.512);
 }
